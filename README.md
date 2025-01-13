@@ -1,0 +1,2 @@
+# DetNetMVcCore
+LibraryManagementSystem
