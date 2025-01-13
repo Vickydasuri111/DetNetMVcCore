@@ -1,0 +1,7 @@
+SELECT TOP (1000) [BookId]
+      ,[Title]
+      ,[Author]
+      ,[ISBN]
+      ,[PublishedDate]
+      ,[IsAvailable]
+  FROM [LibraryBookDataSet].[dbo].[Books]

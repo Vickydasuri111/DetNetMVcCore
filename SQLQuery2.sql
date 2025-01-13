@@ -1,0 +1,8 @@
+SELECT TOP (1000) [BorrowRecordId]
+      ,[BookId]
+      ,[BorrowerName]
+      ,[BorrowerEmail]
+      ,[Phone]
+      ,[BorrowDate]
+      ,[ReturnDate]
+  FROM [LibraryBookDataSet].[dbo].[BorrowRecords]
